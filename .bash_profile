@@ -80,5 +80,5 @@ print_before_the_prompt () {
 
 PROMPT_COMMAND=print_before_the_prompt
 PS1='\[\e[0;30m\]\[\e[47m\]༼ つ ◕_◕ ༽つ\[\e[0m\] '
-PS1='\[\e[0;30m\]\[\e[47m\]༼ つ ◕_◕ ༽つ\[\e[0m\] '
+
 #(ಠ_ಠ)
